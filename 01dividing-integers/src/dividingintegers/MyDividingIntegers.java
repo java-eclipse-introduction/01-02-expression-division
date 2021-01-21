@@ -7,6 +7,10 @@ public class MyDividingIntegers {
 
 		// DI.01 Osztás egész számmal
 		// Feladat: Írjon programot az ax+b=0 elsõfokú egyenlet megoldására az egész számok halmazán.
+		
+		// DI.02 Kezdõ értékek
+		int a=2;
+		int b=6;		
 	}
 
 }
