@@ -11,6 +11,10 @@ public class MyDividingRealNumbers {
 		// DR.02 Kezdõ értékek
 		float a=4;
 		float b=6;		
+		
+		// DR.03 Az egyenlet megoldása x=-b/a
+		float x=-b/a;
+		System.out.print("Az "+a+"x+"+b+"=0 egynelt megoldása:"+x);		
 	}
 
 }
