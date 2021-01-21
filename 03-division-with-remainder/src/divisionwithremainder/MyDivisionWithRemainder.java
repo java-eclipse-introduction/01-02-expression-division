@@ -11,6 +11,9 @@ public class MyDivisionWithRemainder {
 		// DWR.02 Kezdõ értékek
 		int tojasokSzama=73;
 		int tartoMeret=20;
+
+		// DWR.03 Tele pakolt tojásrtók számának meghatározása
+		int telePakoltTojasTartokSzam=tojasokSzama/tartoMeret;
 	}
 
 }
