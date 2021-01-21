@@ -14,6 +14,10 @@ public class MyDivisionWithRemainder {
 
 		// DWR.03 Tele pakolt tojásrtók számának meghatározása
 		int telePakoltTojasTartokSzam=tojasokSzama/tartoMeret;
+
+		// DWR.04 Meghatározzuk hány tojás maradt még ki. Ezeket az utolsó tartóba rakjuk.
+		//int kimaradtTojasokSzama=tojasokSzama-szuksegesTojasTartoSzam*tartoMeret;		
+		int kimaradtTojasokSzama=tojasokSzama%tartoMeret;
 	}
 
 }
