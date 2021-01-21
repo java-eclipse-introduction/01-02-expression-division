@@ -7,6 +7,10 @@ public class MyDividingRealNumbers {
 
 		// DR.01 Osztás valós számmal
 		// Feladat: Írjon programot az ax+b=0 elsõfokú egyenlet megoldására a valós számok halmazán.
+		
+		// DR.02 Kezdõ értékek
+		float a=4;
+		float b=6;		
 	}
 
 }
