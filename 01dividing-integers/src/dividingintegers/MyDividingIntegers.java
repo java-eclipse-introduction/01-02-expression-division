@@ -14,7 +14,9 @@ public class MyDividingIntegers {
 
 		// DI.03 Az egyenlet megoldása x=-b/a
 		int x=-b/a;
-		System.out.print("Az "+a+"x+"+b+"=0 egynelt megoldása:"+x);		
+		System.out.print("Az "+a+"x+"+b+"=0 egynelt megoldása:"+x);	
+		
+		// DI.04 Tesztelje a program mûködését a=5, b=6 kezdõértékek esetén! Mit tapasztal?		
 	}
 
 }
