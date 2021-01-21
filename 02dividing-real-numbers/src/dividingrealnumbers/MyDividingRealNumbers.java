@@ -15,6 +15,10 @@ public class MyDividingRealNumbers {
 		// DR.03 Az egyenlet megoldása x=-b/a
 		float x=-b/a;
 		System.out.print("Az "+a+"x+"+b+"=0 egynelt megoldása:"+x);		
+		
+		// DR.04 Milyen esetben nincs megoldása az egyenletnek? 
+		// Milyen esetben van végtelen sok megoldása az egyenletnek?
+		// Ilyenkor mi lesz a program futásának eredménye?		
 	}
 
 }
