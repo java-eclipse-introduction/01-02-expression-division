@@ -21,6 +21,11 @@ public class MyDivisionWithRemainder {
 
 		// DWR.05 Meghatározzuk ez alapján, hogy az utolsó tartóba hány üres hely lesz.
 		int utolsobaUresHely=tartoMeret-kimaradtTojasokSzama;
+
+		// DWR.06 Kiírjuk az eredményeket
+		System.out.println("Tele pakolt tojástartók száma: "+telePakoltTojasTartokSzam+" db.");
+		System.out.println("Utolsó tojástartóban lévõ tojások száma: "+kimaradtTojasokSzama+" db.");
+		System.out.print("Utolsó tojástartóban üres helyek száma: "+utolsobaUresHely+" db.");
 	}
 
 }
