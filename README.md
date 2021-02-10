@@ -20,7 +20,7 @@ Használható tagek:<br/>
 Használható tagek:<br/>
 * DWR.01          Adott n darab tojás, amit 20 férőhelyes tojás tartóba kell elpakolni.
 * DWR.02          Kezdő értékek
-* DWR.03          Tele pakolt tojásrtók számának meghatározása
+* DWR.03          Tele pakolt tojástartók számának meghatározása
 * DWR.04          Meghatározzuk hány tojás maradt még ki. Ezeket az utolsó tartóba rakjuk.
 * DWR.05          Meghatározzuk ez alapján, hogy az utolsó tartóba hány üres hely lesz.
 * DWR.06          Kiírjuk az eredményeket
