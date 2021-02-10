@@ -16,7 +16,7 @@ Használható tagek:<br/>
 * DR.03           Az egyenlet megoldása x=-b/a
 * DR.04           Milyen esetben nincs megoldása az egyenletnek?
 ### 03-division-with-remainder branch<br/>
-#### Maradékos osztás az egész számok köréban<br/>
+#### Maradékos osztás az egész számok körében<br/>
 Használható tagek:<br/>
 * DWR.01          Adott n darab tojás, amit 20 férőhelyes tojás tartóba kell elpakolni.
 * DWR.02          Kezdő értékek
